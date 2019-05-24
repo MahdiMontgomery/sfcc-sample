@@ -1,3 +1,4 @@
 - branched from develop into feature
 - created search
 
+- fixed some header issues from release branch
